@@ -1,0 +1,6 @@
+streamlit>=1.40
+google-adk>=2.0
+google-genai>=1.0
+numpy>=1.26
+pypdf>=4.0
+python-dotenv>=1.0
